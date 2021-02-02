@@ -1,7 +1,26 @@
 li {
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-family: 'Lucida Sans';
+    font-size: 16px;
+
 }
 img {
-    width: 70%;
+    width: 40%;
   
+}
+
+.kk {
+    background-color: green;
+    border-radius: 5px;
+    padding-left: 10px;
+    padding-bottom: 3px;
+    padding-top: 6px;
+    padding-right: 10px;
+
+    border-style: solid;
+    display: inline-block;
+
+    
+}
+p {
+    font-size: 20px;
 }
