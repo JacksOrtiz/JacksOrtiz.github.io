@@ -40,6 +40,14 @@ img {
     
 }
 
+.nabidah {
+    position: absolute;
+    display:inline-block;
+    right: 200px;
+
+    
+}
+
 .lisLTM {
     border-style:inset;
     border-radius:5px;
