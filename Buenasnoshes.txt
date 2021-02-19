@@ -25,8 +25,12 @@
 
     El dia de hoy almorze pizza y pepsi, practique en brawlhalla y que pereza la verdad.
     Aqui estamos cada vez mas cerca de volverme un profesional en Git y Github.
+<<<<<<< HEAD
     Parece que aun no logro aceptarlo. AH PEPE
 =======
     
     Intente hacer un push al fork remoto y me da denied. Luego probe con un repositorio que clone el fork y tampoco funcionó, no se que mas hacer
 >>>>>>> 6bb802107e587eb22c7965f49f6e5321561bd3cd
+=======
+    Parece que aun no logro aceptarlo. AHORA SI PEPE
+>>>>>>> pepe
