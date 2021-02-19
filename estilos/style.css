@@ -40,10 +40,9 @@ img {
     
 }
 
-.nabidah {
-    position: absolute;
+.nabidah{
     display:inline-block;
-    right: 200px;
+    object-position: right;
 
     
 }
