@@ -21,9 +21,10 @@
     Dia jueves y son las 18h, estoy practicando gracias a que decidi entrar a un grupo de discord
     que tiene un bloque de trabajo, espero de verdad que pueda seguir manteniendo el ritmo.
     Nunca paremos de intentarlo. MarceYudis estuvo aki
-    
+
     Intente hacer un push al fork remoto y me da denied. Luego probe con un repositorio que clone el fork y tampoco funcionó, no se que mas hacer
 
 Me cree otra cuenta de usuario porque no lograba ejecutar los PUSH a mis forks.
 Gracias a la gran comunidad de Platzi ya entiendo cual era el inconveniente.
 De momento estare usando dos usuarios porque me resulta un poco menos estresante
+
