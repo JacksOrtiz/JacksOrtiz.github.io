@@ -23,7 +23,7 @@ img {
 
 .recuadro {
     display: inline-block;
-    position: relative;
+    
 }
 
 .kk {
@@ -58,7 +58,8 @@ p {
     background-color: burlywood;
     border-radius: 10px;
 
-    padding-top: 15px;
+    padding: 45px;
     border-style: ridge;
- 
+    
+    display:inline-block;
 }
