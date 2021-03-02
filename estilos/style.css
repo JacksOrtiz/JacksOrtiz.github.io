@@ -63,3 +63,8 @@ p {
     
     display:inline-block;
 }
+
+.morf {
+    border: black 3px solid;
+    display: inline-block;
+}
