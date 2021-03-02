@@ -23,7 +23,7 @@ img {
 
 .recuadro {
     display: inline-block;
-    position: relative;
+    
 }
 
 .kk {
@@ -77,4 +77,30 @@ img {
 
 p {
     font-size: 20px;
+}
+
+.second_section .secondtitle {
+    color:blueviolet;
+    background-color: cornsilk;
+
+    border-radius: 10px;
+    border-style: ridge;
+
+    position: relative;
+    top: 35px;
+}
+.second_section .psibling {
+    color:brown;
+    background-color: burlywood;
+    border-radius: 10px;
+
+    padding: 45px;
+    border-style: ridge;
+    
+    display:inline-block;
+}
+
+.morf {
+    border: black 3px solid;
+    display: inline-block;
 }
